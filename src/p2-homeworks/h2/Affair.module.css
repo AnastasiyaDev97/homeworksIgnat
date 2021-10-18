@@ -1,0 +1,17 @@
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+.wrapper{
+   display: flex;
+    width: 350px;
+    justify-content: space-between;
+    padding: 0 10px;
+    align-items: center;
+}
+
+.elemInSpan{
+    width: 90px;
+}
+.button{
+    min-width: 65px;
+}

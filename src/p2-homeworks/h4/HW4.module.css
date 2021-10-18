@@ -1,3 +1,7 @@
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+
 .blue {
     border-bottom: 5px solid blue;
 }
