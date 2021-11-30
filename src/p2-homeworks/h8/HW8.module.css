@@ -1,0 +1,11 @@
+.peopleWrapper{
+    display: flex;
+    width: 10%;
+    justify-content: space-between;
+    margin: 5px;
+
+}
+.btnBlock{
+    display: flex;
+
+}
